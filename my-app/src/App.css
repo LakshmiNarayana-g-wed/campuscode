@@ -58,3 +58,5 @@
 .brand-mark{display:block;width:42px;height:42px;object-fit:contain;transform:none!important}.brand{gap:6px}.auth-brand .brand-mark{width:38px;height:38px}.dash-brand .brand-mark{width:40px;height:40px}
 
 .auth-intro h1{font-family:var(--font-sans);font-weight:900;font-size:clamp(88px,8.25vw,129.42px);line-height:.78;letter-spacing:-.062em}@media(max-width:900px){.auth-intro h1{font-size:clamp(76px,10vw,105px)}}@media(max-width:700px){.auth-intro h1{font-size:clamp(72px,17vw,112px)}}
+
+.brand{width:168px;height:35px;padding:0;border:0;background:transparent;display:block}.brand-wordmark{width:168px;height:35px;display:block;object-fit:contain}.auth-brand{width:168px;height:35px;display:block}.auth-brand .brand-wordmark{width:168px;height:35px}.dash-brand{width:168px;height:35px;padding:0;display:block}.dash-brand .brand-wordmark{width:168px;height:35px}@media(max-width:480px){.brand{transform:none}.brand-wordmark{width:168px;height:35px}}
